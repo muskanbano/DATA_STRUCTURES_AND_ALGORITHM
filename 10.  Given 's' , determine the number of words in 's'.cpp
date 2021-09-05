@@ -1,3 +1,5 @@
+[FULL QUESTION]--->>(https://www.hackerrank.com/challenges/camelcase/problem)
+
 #include <bits/stdc++.h>
 
 using namespace std;
