@@ -1,4 +1,4 @@
-!CLICK HERE FOR QUESTION(https://www.hackerrank.com/challenges/grading/problem)
+[FULL QUESTION]--->>(https://www.hackerrank.com/challenges/grading/problem)
 
 #include <bits/stdc++.h>
 
